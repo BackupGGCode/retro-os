@@ -10,8 +10,20 @@ These are images of RETRO OS.
 
 What the login screen should look like:
 
-http://img840.imageshack.us/img840/7600/rusrsel.th.gif
+http://img840.imageshack.us/img840/7600/rusrsel.gif
 
 What the CMD bar should look like:
 
-http://img857.imageshack.us/img857/2903/cmdbar.th.gif
+http://img857.imageshack.us/img857/2903/cmdbar.gif
+
+What the menu bar should look like:
+
+http://img810.imageshack.us/img810/4742/rmenu.gif
+
+What it should look like when opening and closing windows:
+
+http://img718.imageshack.us/img718/4237/rocwin.gif
+
+What resizing windows should look like:
+
+http://img843.imageshack.us/img843/8379/rtabs.gif
