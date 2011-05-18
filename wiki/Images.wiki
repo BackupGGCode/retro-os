@@ -3,9 +3,15 @@
 
 = Introduction =
 
-Add your content here.
-
+These are images of RETRO OS.
 
 = Images =
 == Photoshop-Made Images ==
-Nick\lars, add images here
+
+What the login screen should look like:
+
+http://img840.imageshack.us/img840/7600/rusrsel.th.gif
+
+What the CMD bar should look like:
+
+http://img857.imageshack.us/img857/2903/cmdbar.th.gif
