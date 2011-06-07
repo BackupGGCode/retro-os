@@ -2,12 +2,22 @@
 
 = Introduction =
 
-Add your content here.
+This page describes the current functions of RETRO OS.
 
 
-= Details =
+= Functions =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== WordPad ==
+
+WordPad can create notes that last until the computer in shutdown.
+Syntax:
+    Word - Create note
+    Word r - read note
+
+== Math ==
+
+Math can do various math functions.
+
+Syntax:
+    Math a - add 2 numbers
+    Math d - divide 2 numbers
