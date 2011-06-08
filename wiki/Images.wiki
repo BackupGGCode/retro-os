@@ -1,12 +1,24 @@
-#summary One-sentence summary of this page.
-#labels Images,Examples,look
+#summary Images of RETRO.
+#labels Images,Examples,look,GUI,UI,CLI
 
 = Introduction =
 
 These are images of RETRO OS.
 
 = Images =
-== Photoshop-Made Images ==
+== Current OS v0.0.2 ==
+
+=== Boot screen ===
+http://img607.imageshack.us/img607/9499/retroboot.png
+
+=== User Interface ===
+http://img857.imageshack.us/img857/9270/retroui.png
+
+=== Help screen ===
+http://img835.imageshack.us/img835/6267/retrohelp.png
+
+----
+== Projected GUI ==
 
 
 
