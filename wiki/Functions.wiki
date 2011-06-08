@@ -11,13 +11,15 @@ This page describes the current functions of RETRO OS.
 
 WordPad can create notes that last until the computer in shutdown.
 Syntax:
-    Word - Create note
-    Word r - read note
+    word - Create note
+    word r - read note
 
 == Math ==
 
 Math can do various math functions.
 
 Syntax:
-    Math a - add 2 numbers
-    Math d - divide 2 numbers
+    math a - add 2 numbers
+    math d - divide 2 numbers
+    math m - multiply 2 numbers
+    math s - subtract 2 numbers
