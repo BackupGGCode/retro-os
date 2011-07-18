@@ -3,4 +3,40 @@
 = Languages used =
 100% C#
 
+= Techniques =
+== Mouse ==
+=== No Flicker ===
+Pseudo code:
+{{{
+while(true)
+{
+  if(newX != oldX || newY != oldY)
+  {
+    oldX = newX;
+    oldY = newY;
+    Draw_Mouse(newX,newY);
+  }
+}
+}}}
+== Drawing Text ==
+=== Bitmaps(current) ===
+Pseudo Code:
+{{{
+void Write_A(x,y)
+{
+  A[4*5] = {
+    0,1,1,0,
+    1,0,0,1,
+    1,1,1,1,
+    1,0,0,1,
+    1,0,0,1
+  }
+
+  for(int i = 0; i < (4*5); i++)
+  {
+    if(A[i] == 1) Pixel(x+(i-(i/5)),y+(i/5),1);
+  }
+}
+}}}
+----
 <g:plusone size="tall"></g:plusone>
