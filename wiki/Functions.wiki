@@ -7,19 +7,16 @@ This page describes the current functions of RETRO OS.
 
 = Functions =
 
-== WordPad ==
+== GUI ==
 
-WordPad can create notes that last until the computer in shutdown.
-=== Syntax ===
+
+
+----
+
+== CLI ==
+=== WordPad ===
+
+WordPad can create notes that last until the computer is shutdown.
+==== Syntax ====
     * word - Create note
     * word r - read note
-
-== Math ==
-
-Math can do various math functions.
-
-=== Syntax ===
-  * math a - add 2 numbers
-  * math d - divide 2 numbers
-  * math m - multiply 2 numbers
-  * math s - subtract 2 numbers
