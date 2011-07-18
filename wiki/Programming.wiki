@@ -3,8 +3,4 @@
 = Languages used =
 100% C#
 
-<g:plusone size="medium"></g:plusone>
-
-#sidebar * [Articles RETRO articles]
-    * [Images Commands]
-    * [Images Images]
+<g:plusone size="large"></g:plusone>
