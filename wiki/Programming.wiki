@@ -3,4 +3,4 @@
 = Languages used =
 100% C#
 
-<g:plusone size="large"></g:plusone>
+<g:plusone size="tall"></g:plusone>
