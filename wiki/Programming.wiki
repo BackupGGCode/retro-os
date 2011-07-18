@@ -5,7 +5,6 @@
 
 <g:plusone size="medium"></g:plusone>
 
-#sidebar
-  * [Articles RETRO articles]
+#sidebar * [Articles RETRO articles]
     * [Images Commands]
     * [Images Images]
