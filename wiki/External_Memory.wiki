@@ -22,7 +22,7 @@ while(true)
 == 2.) Check for Init ==
 Pseudo Code:
 {{{
-int Init = 0xAF;
+int Init = 0x00;
 int AddrSize = 8; //The Size of the addr word
 int WordLength = 8; //The length of a Word
 
@@ -36,8 +36,8 @@ if(ReadSer == Init)
 == 3.) Check for Read/Write ==
 Pseudo Code:
 {{{
-int Read = 0xAD;
-int Write = 0xAA;
+int Read = 0x01;
+int Write = 0x02;
 
 if(ReadSer == Read)
 {
