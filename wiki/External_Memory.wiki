@@ -1,0 +1,60 @@
+#summary Make an external memory device for RETRO OS.
+
+= Introduction =
+
+This is a tutorial on how to make a external memory device for RETRO OS.
+I used an Arduino and an EEPROM.
+
+
+= Tutorial =
+
+== 1.) Have it read from the serial port constantly ==
+
+Pseudo Code:
+{{{
+while(true)
+{
+    int ReadSer = Read_Serial();
+}
+}}}
+
+== 2.) Check for Init ==
+Pseudo Code:
+{{{
+int Init = 0xAF;
+int AddrSize = 8; //The Size of the addr word
+int WordLength = 8; //The length of a Word
+
+if(ReadSer == Init)
+{
+    Write_Ser(Addrs);
+    Write_Ser(WordLength);
+}
+}}}
+
+== 3.) Check for Read/Write ==
+Pseudo Code:
+{{{
+int Read = 0xAD;
+int Write = 0xAA;
+
+if(ReadSer == Read)
+{
+    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+    byte addr = Read_Ser();
+    Write_Ser(ReadMem(addr))//ReadMem is the function to read from the memory device you are using
+}
+
+if(ReadSer == Write)
+{
+    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+    byte addr = Read_Ser();
+    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+    int data = Read_Ser()
+    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+
+    WriteMem(addr,data);//WriteMem is the function to Write to the memory device you are using
+}
+}}}
+
+Thats It! (So For, More to come!!)
