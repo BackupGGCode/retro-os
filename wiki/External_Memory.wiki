@@ -23,8 +23,8 @@ while(true)
 Pseudo Code:
 {{{
 int Init = 0x00;
-int AddrSize = 8; //The Size of the addr word
-int WordLength = 8; //The length of a Word
+int AddrSize = 512; //The Size of the addr word
+int WordLength = 9; //The length of a Word
 
 if(ReadSer == Init)
 {
@@ -41,20 +41,22 @@ int Write = 0x02;
 
 if(ReadSer == Read)
 {
-    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+    Write_Ser(1); //Allow RETRO to know that the device is responding
     byte addr = Read_Ser();
+    byte addr += (Read_Ser() & 0x01) * 256;
     Write_Ser(ReadMem(addr))//ReadMem is the function to read from the memory device you are using
 }
 
 if(ReadSer == Write)
 {
-    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+    Write_Ser(1); //Allow RETRO to know that the device is responding
     byte addr = Read_Ser();
-    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+    byte addr += (Read_Ser() & 0x01) * 256;
+    Write_Ser(1); //Allow RETRO to know that the device is responding
     int data = Read_Ser()
-    Write_Ser(0x00); //Allow RETRO to know that the device is responding
+    Write_Ser(1); //Allow RETRO to know that the device is responding
 
-    WriteMem(addr,data);//WriteMem is the function to Write to the memory device you are using
+    WriteMem(addr, data);//WriteMem is the function to Write to the memory device you are using
 }
 }}}
 
