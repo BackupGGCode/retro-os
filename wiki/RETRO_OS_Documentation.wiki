@@ -32,8 +32,8 @@ GUI:
 
 First, there are (currently) 3 app icons on the Desktop:
 
-Paint - draw stuff in many colors$
-Write - type stuff in many colors$
+Paint - draw stuff in many colors (54+ colors)
+Write - type stuff in many colors (54+ colors)
 Cmd - send commands to the command interpreter(very alpha!)
 
 $54+ colors
