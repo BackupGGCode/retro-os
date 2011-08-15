@@ -1,0 +1,63 @@
+#summary Documentation for RETRO OS
+#labels Featured
+
+= Documentation =
+
+Retro OS documentation
+
+Current release: 0.7.0
+Codenamed: RETRO (only Codename big releases)
+
+1.) We will not give out the source code for RETRO. We have some "parts" of it on our website if anyone needs help making their own OS with cosmos.
+
+2.) Retro is still in the Beta/Alpha(Depending on the current version) stages, so it may crash or glitch up every once in a while. It "may" be fixed in the first stable version.
+
+3.)The Documentation:
+
+When you start RETRO, you will see a login screen, the Guest password is GST, and the username is Guest, and remember, it's case sensitive!
+
+After that, a screen will come up allowing you to either use the CLI, or the GUI(not completely finished). If you press a key other than 1 or 2, some random beta feature will start. And then it will freeze when the beta feature is finished executing, unless you have a printer attached to the parallel port.
+
+CLI:
+
+Here is a list of common commands:
+
+Help - show all commands
+Snake - play Snake(alpha)
+Echo - echo some text
+gui - enter the GUI
+
+
+GUI:
+
+First, there are (currently) 3 app icons on the Desktop:
+
+Paint - draw stuff in many colors*
+Write - type stuff in many colors*
+Cmd - send commands to the command interpreter(very alpha!)
+
+*54+ colors
+
+Then, there are some icons in the RETRO menu:
+
+Top 3: currently all reboot
+
+Gear: settings
+Everything else: Not Implemented
+
+Settings:
+
+Colors: change bg color
+Simple Cursor: when checked(glitchy checkbox), the cursor is a single pixel, not a "pointer"
+Save: exit settings
+
+
+4.)Credits:
+
+Peter: Programming, implementing graphics, some ideas
+Lars: Graphics, ideas
+Nick: Graphics, ideas
+Dayton: Ideas
+Basil: Ideas
+
+"That's all Folks!"
