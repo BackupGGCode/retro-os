@@ -32,11 +32,11 @@ GUI:
 
 First, there are (currently) 3 app icons on the Desktop:
 
-Paint - draw stuff in many colors*
-Write - type stuff in many colors*
+Paint - draw stuff in many colors$
+Write - type stuff in many colors$
 Cmd - send commands to the command interpreter(very alpha!)
 
-*54+ colors
+$54+ colors
 
 Then, there are some icons in the RETRO menu:
 
