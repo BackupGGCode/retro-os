@@ -22,19 +22,19 @@ CLI:
 
 Here is a list of common commands:
 
-  *Help - show all commands
-  *Snake - play Snake(alpha)
-  *Echo - echo some text
-  *gui - enter the GUI
+  * Help - show all commands
+  * Snake - play Snake(alpha)
+  * Echo - echo some text
+  * gui - enter the GUI
 
 
 GUI:
 
 First, there are (currently) 3 app icons on the Desktop:
 
-  *Paint - draw stuff in many colors (54+ colors)
-  *Write - type stuff in many colors (54+ colors)
-  *Cmd - send commands to the command interpreter(very alpha!)
+  * Paint - draw stuff in many colors (54+ colors)
+  * Write - type stuff in many colors (54+ colors)
+  * Cmd - send commands to the command interpreter(very alpha!)
 
 
 Then, there are some icons in the RETRO menu:
