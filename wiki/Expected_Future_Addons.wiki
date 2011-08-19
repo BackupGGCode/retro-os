@@ -11,3 +11,5 @@
 
 || Release || Function || Expected Usability ||
 || 1.0.0 || Better Graphics Support || http://retro-os.googlecode.com/svn/img/Bar_5.jpg ||
+|| 1.0.0 || Scripting Language put back in || http://retro-os.googlecode.com/svn/img/Bar_3.jpg ||
+|| 1.5.0 - 2.0.0 || Larger Resolution || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
