@@ -1,0 +1,8 @@
+#summary Add-ons/Functions that are being worked on
+
+= Expected in future release =
+
+|| Release || Function || Expected Usability ||
+|| 1.0.0 || Better Graphics Support || very ||
+
+
