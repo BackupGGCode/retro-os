@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Users\farlepet\AppData\Roaming\Cosmos User Kit\Build\tools\cygwin\objdump.exe" --wide --syms "C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\RETROBoot.bin" > ExtractMapFromElfFileTemp.out
