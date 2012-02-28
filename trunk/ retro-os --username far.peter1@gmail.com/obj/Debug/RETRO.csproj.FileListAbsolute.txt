@@ -1,0 +1,15 @@
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\RETRO.dll
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\RETRO.pdb
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Core.dll
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Hardware.dll
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.System.dll
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Common.Extensions.dll
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Core.pdb
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Hardware.pdb
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.System.pdb
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\bin\Debug\Cosmos.Common.Extensions.pdb
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\obj\Debug\RETRO.csprojResolveAssemblyReference.cache
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\obj\Debug\RETRO.dll
+C:\Users\farlepet\Documents\Visual Studio 2010\Projects\RETRO\RETRO\obj\Debug\RETRO.pdb
