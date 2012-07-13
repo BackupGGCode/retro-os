@@ -7,48 +7,13 @@ Retro OS documentation
 
 Current release: 1.0.0
 
-1.) We will not give out the source code for RETRO. We have some "parts" of it on our website if anyone needs help making their own OS with cosmos.
+1.) We will not give out the source code for RETRO. We have some "parts" of it on our website if anyone needs help making their own OS in C/ASM.
 
-2.) Retro is still in the Beta/Alpha(Depending on the current version) stages, so it may crash or glitch up every once in a while. It "may" be fixed in the first stable version.
+2.) Retro is still in the Alpha stage, so it may crash or glitch up every once in a while. It "may" be fixed in the first stable version.
 
 3.)The Documentation:
 
-When you start RETRO, you will see a login screen, the Guest password is GST, and the username is Guest, and remember, it's case sensitive!
-
-After that, a screen will come up allowing you to either use the CLI, or the GUI(not completely finished). If you press a key other than 1 or 2, some random beta feature will start. And then it will freeze when the beta feature is finished executing.
-
-CLI:
-
-Here is a list of common commands:
-
-  * Help - show all commands
-  * Snake - play Snake(alpha)
-  * Echo - echo some text
-  * gui - enter the GUI
-
-
-GUI:
-
-First, there are (currently) 3 app icons on the Desktop:
-
-  * Paint - draw stuff in many colors (54+ colors)
-  * Write - type stuff in many colors (54+ colors)
-  * Cmd - send commands to the command interpreter(very alpha!)
-
-
-Then, there are some icons in the RETRO menu:
-
-Top 3: currently all reboot
-
-Gear: settings
-Everything else: Not Implemented
-
-Settings:
-
-Colors: change bg color
-Simple Cursor: when checked(glitchy checkbox), the cursor is a single pixel, not a "pointer"
-Save: exit settings
-
+none yet!
 
 4.)Credits:
 
