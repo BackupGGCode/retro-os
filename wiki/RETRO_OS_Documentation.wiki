@@ -52,10 +52,10 @@ Save: exit settings
 
 4.)Credits:
 
-Peter: Programming, implementing graphics, some ideas
-Lars: Graphics, ideas
-Nick: Graphics, ideas
-Dayton: Programming, Ideas
-Basil: Ideas
+  * Peter: Programming, implementing graphics, some ideas
+  * Lars: Graphics, ideas
+  * Nick: Graphics, ideas
+  * Dayton: Programming, Ideas
+  * Basil: Ideas
 
 "That's all Folks!"
