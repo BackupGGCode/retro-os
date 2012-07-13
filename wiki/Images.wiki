@@ -6,27 +6,10 @@
 These are images of RETRO OS.
 
 = Images =
-== Current OS v0.0.4 ==
 
-=== Boot screen ===
-http://img607.imageshack.us/img607/9499/retroboot.png
+-as RETRO has been restarted and is currently being re-coded, this may appear empty for a few weeks
 
-=== User Interface ===
-http://img857.imageshack.us/img857/9270/retroui.png
-
-=== Help screen ===
-http://img835.imageshack.us/img835/6267/retrohelp.png
-
-=== VGA test (new) ===
-http://img263.imageshack.us/img263/2419/vgatest.png
-
-=== What the basic GUI should look like ===
-http://img62.imageshack.us/img62/1303/futureui.png
-
-=== A simple line drawing app ===
-http://img695.imageshack.us/img695/4159/partyappretro.png
-
-----
+---
 == Projected GUI ==
 
 
