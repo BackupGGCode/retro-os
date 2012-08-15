@@ -11,6 +11,6 @@
 = Expected in future release =
 
 || Release expected to contain this addon/fix || Function || Expected Usability ||
-|| 0.2.0 || Good keyboard support || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
-|| 0.2.0 || Standard IO streams || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
-|| 0.7.0 || minimal VGA graphics support || http://retro-os.googlecode.com/svn/img/Bar_2.jpg ||
+|| 0.2.0 beta || Good keyboard support || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
+|| 0.2.0 beta || Standard IO streams || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
+|| 0.7.5 alpha || minimal VGA graphics support || http://retro-os.googlecode.com/svn/img/Bar_2.jpg ||
