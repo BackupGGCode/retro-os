@@ -1,4 +1,5 @@
 #summary Add-ons/Functions that are being worked on
+#labels Phase-Design,Phase-Requirements,Featured
 = Usability =
   * http://retro-os.googlecode.com/svn/img/Bar_1.jpg - Unusable 
   * http://retro-os.googlecode.com/svn/img/Bar_2.jpg - Barley Usable
@@ -9,5 +10,7 @@
 
 = Expected in future release =
 
-|| Release || Function || Expected Usability ||
-|| 0.0.1a || an actual OS || http://retro-os.googlecode.com/svn/img/Bar_3.jpg ||
+|| Release expected to contain this addon/fix || Function || Expected Usability ||
+|| 0.2.0 || Good keyboard support || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
+|| 0.2.0 || Standard IO streams || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
+|| 0.7.0 || minimal VGA graphics support || http://retro-os.googlecode.com/svn/img/Bar_2.jpg ||
