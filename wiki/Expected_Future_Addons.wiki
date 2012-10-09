@@ -11,5 +11,5 @@
 = Expected in future release =
 
 || Release expected to contain this addon/fix || Function || Expected Usability ||
-|| 0.2.0 beta || better keyboard support (including scanf (the modifiers and backspace)) || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
+|| 0.6.0 alpha || better keyboard support (including scanf (the modifiers and backspace)) || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
 || 0.6.0 alpha || better & faster VGA graphics lib || http://retro-os.googlecode.com/svn/img/Bar_4.jpg ||
