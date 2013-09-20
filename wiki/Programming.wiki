@@ -1,9 +1,0 @@
-#summary Describes Languages and various coding techniques used in RETRO.
-
-= Languages used =
-5% ASM
-95% C
-
-
-----
-<g:plusone size="tall"></g:plusone>
